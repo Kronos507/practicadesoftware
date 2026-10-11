@@ -1,0 +1,17 @@
+body {
+    font-family: "Tahoma";
+}
+section {
+    width: 880px;
+    height: 400px;
+}
+aside#left, aside#center, aside#right {
+    background-color: #e8e8e8;
+    height: 400px;
+    float: left;
+    margin: 3px;
+    padding: 10px;
+}
+aside#left { width: 200px; }
+aside#center { width: 400px; }
+aside#right { width: 200px; }

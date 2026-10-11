@@ -1,0 +1,18 @@
+* {
+    font-family: tahoma;
+}
+section {
+    background-color: gray;
+    width: 870px;
+    height: 400px;
+    float: left;
+    margin: 5px;
+    border-radius: 10px;
+}
+section#izquierda, section#medio, section#derecha {
+    background-color: burlywood;
+    width: 260px;
+    height: 370px;
+    float: left;
+    padding: 10px;
+}

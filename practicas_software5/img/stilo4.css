@@ -1,0 +1,15 @@
+header {
+    background: #333;
+    height: 100px;
+}
+h1 {
+    font-family: tahoma;
+    color: white;
+    line-height: 60px;
+    margin: 10px;
+}
+h4 {
+    font-family: tahoma;
+    color: yellow;
+    margin: 10px;
+}
